@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/cloud-sample-app-react-snipcart/static/media/radio-button-checked.1a84a9c1.svg"
   },
   {
-    "revision": "5482fb2dbf68395aef13",
-    "url": "/cloud-sample-app-react-snipcart/static/css/main.78ffd6f4.chunk.css"
+    "revision": "4c8bb55557da83d8a853",
+    "url": "/cloud-sample-app-react-snipcart/static/css/main.b6af25e1.chunk.css"
   },
   {
     "revision": "ae40487515008aefa03f",
     "url": "/cloud-sample-app-react-snipcart/static/js/runtime~main.ae404875.js"
   },
   {
-    "revision": "3a025d0c45ce788ab855",
-    "url": "/cloud-sample-app-react-snipcart/static/js/2.3a025d0c.chunk.js"
+    "revision": "658758578fb1600b6b11",
+    "url": "/cloud-sample-app-react-snipcart/static/js/2.65875857.chunk.js"
   },
   {
     "revision": "171ce4e4cb28e074f5c9967f7db949b3",
@@ -28,20 +28,20 @@ self.__precacheManifest = [
     "url": "/cloud-sample-app-react-snipcart/static/media/our-story.6b72dc24.jpg"
   },
   {
-    "revision": "392cb2e0295e00036c634860a8f0cbad",
-    "url": "/cloud-sample-app-react-snipcart/static/media/checkbox-checked.392cb2e0.svg"
-  },
-  {
     "revision": "abf2d2b04c7833a4fedc9c07bdb5a642",
     "url": "/cloud-sample-app-react-snipcart/static/media/checkbox-unchecked.abf2d2b0.svg"
+  },
+  {
+    "revision": "392cb2e0295e00036c634860a8f0cbad",
+    "url": "/cloud-sample-app-react-snipcart/static/media/checkbox-checked.392cb2e0.svg"
   },
   {
     "revision": "8c6533e10367d0901e362f7d295e03b9",
     "url": "/cloud-sample-app-react-snipcart/static/media/radio-button.8c6533e1.svg"
   },
   {
-    "revision": "5482fb2dbf68395aef13",
-    "url": "/cloud-sample-app-react-snipcart/static/js/main.5482fb2d.chunk.js"
+    "revision": "4c8bb55557da83d8a853",
+    "url": "/cloud-sample-app-react-snipcart/static/js/main.4c8bb555.chunk.js"
   },
   {
     "revision": "fdc0354668675e460e18d8e6b880e634",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/cloud-sample-app-react-snipcart/static/media/Core-icons.6823218d.svg"
   },
   {
-    "revision": "7a3b5a07cb7992325c7248854579f67b",
+    "revision": "8f1723a12790a61073d0aa2642a08647",
     "url": "/cloud-sample-app-react-snipcart/index.html"
   }
 ];
