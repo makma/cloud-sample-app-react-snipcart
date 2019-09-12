@@ -2,21 +2,21 @@
     {
       "id": "0c9a11bb-6fc3-409c-b3cb-f0b797e15489",
       "price": 8.50,
-      "url": "https://kentico.github.io/cloud-sample-app-react-snipcart/products.json"
+      "url": "https://makma.github.io/cloud-sample-app-react-snipcart/products.json"
     },
     {
       "id": "baccdc8b-7dd1-40ea-98bb-6a992b0558df",
       "price": 10.5,
-      "url": "https://kentico.github.io/cloud-sample-app-react-snipcart/products.json"
+      "url": "https://makma.github.io/cloud-sample-app-react-snipcart/products.json"
     },
     {
       "id": "80c7074b-3da1-4e1d-882b-c5716ebb4d25",
       "price": 10.5,
-      "url": "https://kentico.github.io/cloud-sample-app-react-snipcart/products.json"
+      "url": "https://makma.github.io/cloud-sample-app-react-snipcart/products.json"
     }
     {
       "id": "86e65a31-e8fe-43c6-8f6d-64d5c70fed76",
       "price": 999,
-      "url": "https://kentico.github.io/cloud-sample-app-react-snipcart/products.json"
+      "url": "https://makma.github.io/cloud-sample-app-react-snipcart/products.json"
     }
   ]
