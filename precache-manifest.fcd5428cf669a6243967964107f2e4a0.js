@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "1a84a9c1102aa390f7d788a9a4f4603c",
-    "url": "/cloud-sample-app-react-snipcart/static/media/radio-button-checked.1a84a9c1.svg"
+    "revision": "8c6533e10367d0901e362f7d295e03b9",
+    "url": "/cloud-sample-app-react-snipcart/static/media/radio-button.8c6533e1.svg"
   },
   {
     "revision": "34ada3666b104a7b52fd",
@@ -36,24 +36,24 @@ self.__precacheManifest = [
     "url": "/cloud-sample-app-react-snipcart/static/media/checkbox-checked.392cb2e0.svg"
   },
   {
-    "revision": "8c6533e10367d0901e362f7d295e03b9",
-    "url": "/cloud-sample-app-react-snipcart/static/media/radio-button.8c6533e1.svg"
+    "revision": "1a84a9c1102aa390f7d788a9a4f4603c",
+    "url": "/cloud-sample-app-react-snipcart/static/media/radio-button-checked.1a84a9c1.svg"
   },
   {
     "revision": "34ada3666b104a7b52fd",
     "url": "/cloud-sample-app-react-snipcart/static/js/main.34ada366.chunk.js"
   },
   {
-    "revision": "ccdb76a033026dbdc3f08c50f4a5263f",
-    "url": "/cloud-sample-app-react-snipcart/static/media/SourceSansPro-Light.ccdb76a0.woff"
+    "revision": "54f926c7e2cffb824547c75bc5ac0b5e",
+    "url": "/cloud-sample-app-react-snipcart/static/media/SourceSansPro-Bold.54f926c7.woff"
   },
   {
     "revision": "fdc0354668675e460e18d8e6b880e634",
     "url": "/cloud-sample-app-react-snipcart/static/media/SourceSansPro-Regular.fdc03546.woff"
   },
   {
-    "revision": "54f926c7e2cffb824547c75bc5ac0b5e",
-    "url": "/cloud-sample-app-react-snipcart/static/media/SourceSansPro-Bold.54f926c7.woff"
+    "revision": "ccdb76a033026dbdc3f08c50f4a5263f",
+    "url": "/cloud-sample-app-react-snipcart/static/media/SourceSansPro-Light.ccdb76a0.woff"
   },
   {
     "revision": "b2622e38f246209fb933e8b8a6ee76ed",
@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "url": "/cloud-sample-app-react-snipcart/static/media/Core-icons.4611bc45.eot"
   },
   {
-    "revision": "1b9af651cbf6b3f133faf2bede0e5266",
-    "url": "/cloud-sample-app-react-snipcart/static/media/Core-icons.1b9af651.ttf"
-  },
-  {
     "revision": "14fb01c406a39aab06275f5578c7316f",
     "url": "/cloud-sample-app-react-snipcart/static/media/Core-icons.14fb01c4.woff"
+  },
+  {
+    "revision": "1b9af651cbf6b3f133faf2bede0e5266",
+    "url": "/cloud-sample-app-react-snipcart/static/media/Core-icons.1b9af651.ttf"
   },
   {
     "revision": "6823218d348f1ba4e035908b672c745a",
