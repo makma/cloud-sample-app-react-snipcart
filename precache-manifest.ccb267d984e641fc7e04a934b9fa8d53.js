@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/cloud-sample-app-react-snipcart/static/media/radio-button-checked.1a84a9c1.svg"
   },
   {
-    "revision": "4c8bb55557da83d8a853",
+    "revision": "98190f70f41f69a902c8",
     "url": "/cloud-sample-app-react-snipcart/static/css/main.b6af25e1.chunk.css"
   },
   {
@@ -40,12 +40,8 @@ self.__precacheManifest = [
     "url": "/cloud-sample-app-react-snipcart/static/media/radio-button.8c6533e1.svg"
   },
   {
-    "revision": "4c8bb55557da83d8a853",
-    "url": "/cloud-sample-app-react-snipcart/static/js/main.4c8bb555.chunk.js"
-  },
-  {
-    "revision": "fdc0354668675e460e18d8e6b880e634",
-    "url": "/cloud-sample-app-react-snipcart/static/media/SourceSansPro-Regular.fdc03546.woff"
+    "revision": "98190f70f41f69a902c8",
+    "url": "/cloud-sample-app-react-snipcart/static/js/main.98190f70.chunk.js"
   },
   {
     "revision": "ccdb76a033026dbdc3f08c50f4a5263f",
@@ -56,6 +52,10 @@ self.__precacheManifest = [
     "url": "/cloud-sample-app-react-snipcart/static/media/SourceSansPro-Bold.54f926c7.woff"
   },
   {
+    "revision": "fdc0354668675e460e18d8e6b880e634",
+    "url": "/cloud-sample-app-react-snipcart/static/media/SourceSansPro-Regular.fdc03546.woff"
+  },
+  {
     "revision": "b2622e38f246209fb933e8b8a6ee76ed",
     "url": "/cloud-sample-app-react-snipcart/static/media/PTSerif-Bold.b2622e38.woff"
   },
@@ -64,19 +64,19 @@ self.__precacheManifest = [
     "url": "/cloud-sample-app-react-snipcart/static/media/Core-icons.4611bc45.eot"
   },
   {
-    "revision": "1b9af651cbf6b3f133faf2bede0e5266",
-    "url": "/cloud-sample-app-react-snipcart/static/media/Core-icons.1b9af651.ttf"
-  },
-  {
     "revision": "14fb01c406a39aab06275f5578c7316f",
     "url": "/cloud-sample-app-react-snipcart/static/media/Core-icons.14fb01c4.woff"
+  },
+  {
+    "revision": "1b9af651cbf6b3f133faf2bede0e5266",
+    "url": "/cloud-sample-app-react-snipcart/static/media/Core-icons.1b9af651.ttf"
   },
   {
     "revision": "6823218d348f1ba4e035908b672c745a",
     "url": "/cloud-sample-app-react-snipcart/static/media/Core-icons.6823218d.svg"
   },
   {
-    "revision": "8f1723a12790a61073d0aa2642a08647",
+    "revision": "70abaa7639a9877748053b964c68adcf",
     "url": "/cloud-sample-app-react-snipcart/index.html"
   }
 ];
