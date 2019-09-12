@@ -14,4 +14,9 @@
       "price": 10.5,
       "url": "https://kentico.github.io/cloud-sample-app-react-snipcart/products.json"
     }
+    {
+      "id": "86e65a31-e8fe-43c6-8f6d-64d5c70fed76",
+      "price": 999,
+      "url": "https://kentico.github.io/cloud-sample-app-react-snipcart/products.json"
+    }
   ]
